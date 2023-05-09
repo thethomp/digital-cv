@@ -87,62 +87,62 @@ st.write("---")
 
 # PM xp
 st.write("**Data Architect, Data Engineering Manager | ProbablyMonsters | June 2018 - Present**")
-st.write(
+st.markdown(
     """
-- Helped establish, lead, and eventually manage the Data Insights team for the company from the ground up, contributing to the vision and goals for the team as well as the engagement model for working with game studios.
-- Designed a game agnostic, end to end cloud based data analytics system. This includes schema management, data ingestion, data lake storage, ETL processing layers, data warehousing, and more.
-- Designed and built an internal distributed telemetry data system to handle all logs, metrics, crash information, and more from internal company systems, game clients, and servers as the company started to grow.
-- Established the company's observability engineering discipline. Scaled the team to work efficiently while supporting multiple partner studios and internal teams.
+* Helped establish, lead, and eventually manage the Data Insights team for the company from the ground up, contributing to the vision and goals for the team as well as the engagement model for working with game studios.
+* Designed a game agnostic, end to end cloud based data analytics system. This includes schema management, data ingestion, data lake storage, ETL processing layers, data warehousing, and more.
+* Designed and built an internal distributed telemetry data system to handle all logs, metrics, crash information, and more from internal company systems, game clients, and servers as the company started to grow.
+* Established the company's observability engineering discipline. Scaled the team to work efficiently while supporting multiple partner studios and internal teams.
 """
 )
 
 # Bungie xp 1
 st.write("**Software Engineer, Product Owner | Bungie | April 2016 - May 2018**")
-st.write(
+st.markdown(
     """
-- Responsible for the long-term roadmap, planning, and prioritization of work for the Data Platforms Team, a cross-functional team of data engineers and platform administrators that work to provide Bungie with scalable, reliable, stable data platforms for development and production use. 
-- Collaborate closely with engineering, production, and studio leadership teams to plan and prioritize work that will help empower developers and software services with stable data platforms to utilize.
-- Manage production Hadoop, Elasticsearch, and Redis clusters. This includes duties such as performance tuning, high availability configurations, monitoring, operational tools development, and documentation and training to client teams that utilize the technologies.
-- Design and prototype creative data solutions and pipelines for handling an ever changing set of use cases for a growing gaming franchise.
+* Responsible for the long-term roadmap, planning, and prioritization of work for the Data Platforms Team, a cross-functional team of data engineers and platform administrators that work to provide Bungie with scalable, reliable, stable data platforms for development and production use. 
+* Collaborate closely with engineering, production, and studio leadership teams to plan and prioritize work that will help empower developers and software services with stable data platforms to utilize.
+* Manage production Hadoop, Elasticsearch, and Redis clusters. This includes duties such as performance tuning, high availability configurations, monitoring, operational tools development, and documentation and training to client teams that utilize the technologies.
+* Design and prototype creative data solutions and pipelines for handling an ever changing set of use cases for a growing gaming franchise.
 """
 )
 
 # Bungie xp 2
 st.write("**Destiny Operations Lead | Bungie | November 2013 - April 2016**")
-st.write(
+st.markdown(
     """
-- Leadership role on the Destiny Operations Center (DOC), a 24/7 team that monitors and supports all of the data center hardware and network infrastructure the Destiny games run on.
-- Worked closely with services teams in the studio to develop processes, procedures, and tools for individual contributors of the DOC to use in order to ensure SLA compliance and a high quality of service for players of Destiny.
-- Develop automation and monitoring for various parts of the big data pipeline, including tools that ingest content from major social media outlets such as Twitter and Reddit into ElasticSearch to allow for real time data analysis and visualization.
+* Leadership role on the Destiny Operations Center (DOC), a 24/7 team that monitors and supports all of the data center hardware and network infrastructure the Destiny games run on.
+* Worked closely with services teams in the studio to develop processes, procedures, and tools for individual contributors of the DOC to use in order to ensure SLA compliance and a high quality of service for players of Destiny.
+* Develop automation and monitoring for various parts of the big data pipeline, including tools that ingest content from major social media outlets such as Twitter and Reddit into ElasticSearch to allow for real time data analysis and visualization.
 """
 )
 
 # LawLogix xp
 st.write("**Data Migration Software Engineer | LawLogix | May 2012 - August 2013**")
-st.write(
+st.markdown(
     """
-    - Worked directly with clients to understand requirements for transforming and migrating abstract data sources to the LawLogix Guardian platform (PostgreSQL backend).
-    - Developed robust automation software using Python, Bash, and 4D to manage data migrations.
-    - Led the development effort of integrating Oracle's Taleo with the LawLogix Guardian platform using SOAP web services.
-    - Refactored and helped redesign the existing 4D data migration code base into a Django driven system that integrated with other LawLogix products.
+    * Worked directly with clients to understand requirements for transforming and migrating abstract data sources to the LawLogix Guardian platform (PostgreSQL backend).
+    * Developed robust automation software using Python, Bash, and 4D to manage data migrations.
+    * Led the development effort of integrating Oracle's Taleo with the LawLogix Guardian platform using SOAP web services.
+    * Refactored and helped redesign the existing 4D data migration code base into a Django driven system that integrated with other LawLogix products.
     """
 )
 
 # Cognizant xp
 st.write("**Software Developer | Cognizant Technology Solutions | Jan 2011 - May 2012**")
-st.write(
+st.markdown(
     """
-    - Fast paced, Agile development environment with a top international search engine company as main client.
-    - Using Hadoop, MapReduce, Hive, Pentaho, and AWS, developed a new high traffic cloud infrastructure for handling large amounts of analytical business data, improving upon the reliability and efficiency of the previous infrastructure.
-    - Developed robust monitoring system for said infrastructure using a highly customized Zenoss, including full failover support in case of region wide data center outages.
+    * Fast paced, Agile development environment with a top international search engine company as main client.
+    * Using Hadoop, MapReduce, Hive, Pentaho, and AWS, developed a new high traffic cloud infrastructure for handling large amounts of analytical business data, improving upon the reliability and efficiency of the previous infrastructure.
+    * Developed robust monitoring system for said infrastructure using a highly customized Zenoss, including full failover support in case of region wide data center outages.
     """
 )
 
 # Uni xp
 st.write("**Research Assistant | University of Arizona Computer Vision Lab | 2007 - 2010**")
-st.write(
+st.markdown(
     """
-    - Developed, implemented, and tested dynamic string matching algorithms used for matching presentation slide words with the output of automatic speech recognition systems.
-    - Published results to ICPR in 2010: "Improving and aligning speech with presentation slides," International Conference on Pattern Recognition 2010 (ICPR), August, 2010.
+    * Developed, implemented, and tested dynamic string matching algorithms used for matching presentation slide words with the output of automatic speech recognition systems.
+    * Published results to ICPR in 2010: "Improving and aligning speech with presentation slides," International Conference on Pattern Recognition 2010 (ICPR), August, 2010.
     """
 )
