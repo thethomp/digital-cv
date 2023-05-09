@@ -1,0 +1,9 @@
+[theme]
+base="dark"
+primaryColor="purple"
+
+# Background color used for the sidebar and most interactive widgets.
+secondaryBackgroundColor = "#586e75"
+
+# Color used for almost all text.
+textColor = "#fff"
